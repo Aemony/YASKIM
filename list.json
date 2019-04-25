@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "\"FAR\" (Fix Automata Res.)",
+    "Game": "NieR: Automata",
+    "Type": "AutomaticSteam",
+    "Path": 524220,
+    "AutoUpdate": "https://github.com/Kaldaien/FAR/blob/dinput8/version.ini"
+  },
+  {
+    "Name": "Assassin's Creed Odyssey",
+    "Game": "Assassin's Creed Odyssey",
+    "Type": "Manual",
+    "Path": "",
+    "AutoUpdate": "https://github.com/Kaldaien/SpecialK/releases/tag/sk_odyssey"
+  },
+  {
+    "Name": "Special K (Local Injector)",
+    "Game": "Direct3D 9/10/11-based titles",
+    "Type": "Manual",
+    "Path": "",
+    "AutoUpdate": "https://github.com/Kaldaien/SpecialK/blob/0.8.x/version.ini"
+  },
+  {
+    "Name": "Special K (Global Injector)",
+    "Game": "Direct3D 9/10/11-based Steam titles",
+    "Type": "Automatic",
+    "Path": "%USERPROFILE%\\My Documents\\My Mods\\SpecialK",
+    "AutoUpdate": "https://github.com/Kaldaien/SpecialK/blob/0.8.x/version.ini"
+  }
+]
